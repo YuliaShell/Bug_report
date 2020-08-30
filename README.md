@@ -1,5 +1,4 @@
-<pre>Bug_report
-There's an example of one of my bug reports
+<pre>Bug_report#1
 
 Summary: A failure occurs when a comment is sent</br>   
 Environment: Android 9,  Mi A1  
@@ -23,3 +22,24 @@ The comment appears in the comment column.
 </pre>
 
 Attachments:![screenshot](https://github.com/YuliaShell/Bug_report/blob/master/photo_2020-03-10_12-31-45.jpg)
+<pre>Bug_report#2
+
+ 
+
+Preconditions:
+
+Go to https://www.mcdonalds.com
+
+Steps to reproduce:
+
+Go to https://www.mcdonalds.com/us/en-us/about-our-food/nutrition-calculator.html#
+Choose one of the bevereges
+Try to choose the size of the bottle
+Actual result:
+
+You are immediately brought to the top of the page
+
+Expected result:
+
+You are staying to continue specifying your products for counting calories 
+</pre>
