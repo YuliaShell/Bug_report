@@ -22,4 +22,4 @@ Expected result:</br>  
 The comment appears in the comment column.
 </pre>
 
-Attachments:![screenshot](https://drive.google.com/file/d/120ivdKyox1N3HPJjenOJX0gDnZozCb0N/view)
+Attachments:![screenshot]()
