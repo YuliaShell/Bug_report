@@ -7,16 +7,16 @@ Environment: Android 9,  Mi A1
 Preconditions: Install the application "Уроки медитации"
 
 Steps to reproduce:
-    1. Open the application 
-    2. Click hamburger menu (in the bottom right corner) 
-    3. Choose “lessons” 
-    4. Choose “basic course” and click “open” 
-    5. Scroll to the footer in order to leave a comment 
-    6. Write a comment 
-    7. Click “save” 
+    1. Open the application</br> 
+    2. Click hamburger menu (in the bottom right corner)</br>  
+    3. Choose “lessons”</br>  
+    4. Choose “basic course” and click “open”</br>  
+    5. Scroll to the footer in order to leave a comment</br>  
+    6. Write a comment</br>  
+    7. Click “save”</br>  
     
-Actual result: 
-A failure pop-up dialog box appears. The comment is not sent.
+Actual result:</br>  
+A failure pop-up dialog box appears. The comment is not sent.</br> 
 
-Expected result: 
+Expected result:</br>  
 The comment appears in the comment column.
