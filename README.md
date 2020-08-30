@@ -11,7 +11,7 @@ Steps to reproduce:</br>
     2. Click hamburger menu (in the bottom right corner)</br>  
     3. Choose “lessons”</br>  
     4. Choose “basic course” and click “open”</br>  
-    5. Scroll to the footer in order to leave a comment</br>  
+    5. Scroll to footer in order to leave a comment</br>  
     6. Write a comment</br>  
     7. Click “save”</br> 
     
