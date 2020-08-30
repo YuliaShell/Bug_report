@@ -1,7 +1,7 @@
-<pre># Bug_report
+<pre> Bug_report
 There's an example of one of my bug reports
 
-## Summary: A failure occurs when a comment is sent    
+Summary: A failure occurs when a comment is sent    
 Environment: Android 9,  Mi A1  
 
 Preconditions: Install the application "Уроки медитации"
