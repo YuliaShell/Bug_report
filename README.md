@@ -23,7 +23,11 @@ The comment appears in the comment column.
 Attachments:![screenshot](https://github.com/YuliaShell/Bug_report/blob/master/photo_2020-03-10_12-31-45.jpg)
 <pre>Bug_report#2  
 
-Summary: The menu list of nutrition calculator doesn't work correctly when you select the size of bottle
+Summary: The menu list of nutrition calculator doesn't work correctly when you select the size of bottle  
+Environment:
+Ubuntu 18.04.2 LTS
+Chrome 74.0.3729.108 (64 bit)
+Resolution:1920x1080
 Description:
 Preconditions: Go to https://www.mcdonalds.com
 Steps to reproduce:
