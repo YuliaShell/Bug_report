@@ -20,7 +20,7 @@ Expected result:</br>  
 The comment appears in the comment column.
 </pre>
 
-Attachments:![screenshot](https://github.com/YuliaShell/Bug_report/blob/master/photo_2020-03-10_12-31-45.jpg)
+Attachments:  ![screenshot](https://github.com/YuliaShell/Bug_report/blob/master/photo_2020-03-10_12-31-45.jpg)
 <pre>Bug_report#2  
 
 Summary: The menu list of nutrition calculator doesn't work correctly when you select the size of bottle  
