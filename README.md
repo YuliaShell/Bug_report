@@ -6,7 +6,7 @@ Environment: Android 9,  Mi A1
 
 Preconditions: Install the application "Уроки медитации"
 
-Steps to reproduce:
+Steps to reproduce:</br> 
     1. Open the application</br> 
     2. Click hamburger menu (in the bottom right corner)</br>  
     3. Choose “lessons”</br>  
