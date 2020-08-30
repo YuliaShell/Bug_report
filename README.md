@@ -44,6 +44,7 @@ You are immediately brought to the top of the page
 
 Expected result:
 
-You are staying to continue specifying your products for counting calories 
-Attachments:  [screencast](https://drive.google.com/file/d/1bkkQFx4Fo3t_8YGxFYp9fuZmtafVC7d4/view?usp=sharing) 
+You are staying to continue specifying your products for counting calories
 </pre>
+Attachments:  [screencast](https://drive.google.com/file/d/1bkkQFx4Fo3t_8YGxFYp9fuZmtafVC7d4/view?usp=sharing) 
+
