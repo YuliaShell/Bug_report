@@ -45,4 +45,5 @@ You are immediately brought to the top of the page
 Expected result:
 
 You are staying to continue specifying your products for counting calories 
+Attachments:  [screencast](http://example.com/)
 </pre>
