@@ -22,4 +22,4 @@ Expected result:</br>  
 The comment appears in the comment column.
 </pre>
 
-Attachments:![screenshot]()
+Attachments:![screenshot](https://github.com/YuliaShell/Bug_report/blob/master/photo_2020-03-10_12-31-45.jpg)
