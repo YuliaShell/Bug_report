@@ -2,9 +2,8 @@
 
 Summary: A failure occurs when a comment is sent</br>   
 Environment: Android 9,  Mi A1  
-
+Description:
 Preconditions: Install the application "Уроки медитации"
-
 Steps to reproduce:</br> 
     1. Open the application</br> 
     2. Click hamburger menu (in the bottom right corner)</br>  
@@ -22,19 +21,17 @@ The comment appears in the comment column.
 </pre>
 
 Attachments:![screenshot](https://github.com/YuliaShell/Bug_report/blob/master/photo_2020-03-10_12-31-45.jpg)
-<pre>Bug_report#2
+<pre>Bug_report#2  
 
- 
-
-Preconditions:
-
-Go to https://www.mcdonalds.com
-
+Summary: The menu list of nutrition calculator doesn't work correctly when you select the size of bottle
+Description:
+Preconditions: Go to https://www.mcdonalds.com
 Steps to reproduce:
 
-Go to https://www.mcdonalds.com/us/en-us/about-our-food/nutrition-calculator.html#
-Choose one of the bevereges
-Try to choose the size of the bottle
+1. Go to https://www.mcdonalds.com/us/en-us/about-our-food/nutrition-calculator.html#
+2. Choose one of the bevereges
+3. Try to choose the size of the bottle  
+
 Actual result:
 
 You are immediately brought to the top of the page
